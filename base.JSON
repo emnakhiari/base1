@@ -1,0 +1,49 @@
+[
+    {
+        "user_id": 1,
+        "username": "admin",
+        "password": "$2a$10$q9sHCzYdgD.t5K4VzoP9g.1xtqPaJbNkWX6WSfaHkQT808vBW5AQe",
+        "enabled": true,
+        "roles": [
+            {
+                "role_id": 1,
+                "role": "ADMIN"
+            },
+            {
+                "role_id": 2,
+                "role": "USER"
+            }
+        ]
+    },
+    {
+        "user_id": 2,
+        "username": "emna",
+        "password": "$2a$10$giyfaA0vy39uDNjiMu4zM.vTlsDu1QaS7hYG5KsLbHXvg4z3gCcAG",
+        "enabled": true,
+        "roles": [
+            {
+                "role_id": 2,
+                "role": "USER"
+            }
+        ]
+    },
+    {
+        "user_id": 3,
+        "username": "yassine",
+        "password": "$2a$10$wu.GVErMPfv/kHztGjrLJ.D/OSmy3qPsEsF184LnHoIMVmiURqsTm",
+        "enabled": true,
+        "roles": [
+            {
+                "role_id": 2,
+                "role": "USER"
+            }
+        ]
+    },
+    {
+        "user_id": 5,
+        "username": "ichrak",
+        "password": "$2a$10$uk.W.ZmpensjLhEQj5StAuCpSokxYzdUBPkF6d./MtyeBiPXQH6HK",
+        "enabled": true,
+        "roles": []
+    }
+]
